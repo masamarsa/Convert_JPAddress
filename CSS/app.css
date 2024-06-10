@@ -1,0 +1,10 @@
+input#getAddress {
+    width: 35rem;
+    margin: 5pt
+}
+
+button {
+    margin: 2pt;
+    text-align: center;
+    font-weight: normal;
+}
